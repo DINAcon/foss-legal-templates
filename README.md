@@ -11,6 +11,10 @@ Presented at [DINAcon 2024](https://pretalx.com/dinacon-2024/talk/HZFM7G/)
 
 This is a prototype of a repository of openly licensed contracts and other legal templates, created primarily for use among and by the open source community in Switzerland. This discussion has circulated for some years within [CH Open](https://ch-open.ch), reignited by recent publications of nearby communities. Our project aims to build on open legal data best practices, and promote open source platforms designed for legal work.
 
+Formatted in Markdown using [legal-markdown](https://github.com/compleatang/legal-markdown/blob/master/README.md#yaml-front-matter)
+
+The `proxeus` folder contains exports for a demo [Proxeus workflow](https://proxeus.org)
+
 # References
 
 ## In Switzerland
