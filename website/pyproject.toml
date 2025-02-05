@@ -1,0 +1,18 @@
+[project]
+name = "foss-legal-templates"
+version = "0.1.0"
+description = "CH Open Legal Templates"
+authors = [
+    {name = "CH Open & contributors"}
+]
+license = {text = "CC0 1.0 Universal"}
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+dependencies = [
+    "pelican[markdown] (>=4.11.0,<5.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
