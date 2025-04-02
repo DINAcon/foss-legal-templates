@@ -25,6 +25,15 @@ The `proxeus` folder contains exports for a demo [Proxeus workflow](https://prox
 - [IT-Beschaffungskonferenz](https://www.bfh.ch/de/aktuell/fachveranstaltungen/it-beschaffungskonferenz-2024/)
 - [BFH - Beschaffungs-Roundtable](https://www.bfh.ch/de/aktuell/fachveranstaltungen/beschaffungs-roundtable-29/)
 - [SWICO / SwissICT - IT-Modellverträge](https://www.approovd.com/de/it-modellvertraege/)
+- [Leitfaden Zusammenarbeitsvertrag](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/politik-staat/gemeinden/ikz/anschluss--und-zusammenarbeitsvertrag/leitfaden_zusammenarbeitsvertrag.pdf) - Kanton Zürich, Direktion der Justiz und des Innern
+
+## Germany
+
+- [OSBA Standard-Vertragsbedingungen für SaaS- und Cloudsoftware](https://osb-alliance.de/publikationen/veroeffentlichungen/standard-vertragsbedingungen) ([PDF](https://osb-alliance.de/wp-content/uploads/2020/04/OSBA_Standard-Vertragsbedingungen_SaaS-_und_Cloudsoftware.pdf))
+- "[Was passiert wenn ich mit jemandem gemeinsam (open source) Software weiterentwickle](https://itvertrag.com/ratgeber-open-source#3-was-passiert-wenn-ich-mit-jemandem-gemeinsam-software-weiterentwickle)?" (FAQ on itvertrag.com)
+- [Muster für Kooperationsverträge](https://itwirtschaft.de/vertragsmuster/) - Kompetenzzentrum IT-Wirtschaft KIW
+- [Kooperationsvereinbarung](https://delivery-aktion-mensch.stylelabs.cloud/api/public/content/muster-kooperationsvereinbarung.pdf?v=7f1c45e1) - Kommune Inklusiv
+- [FAQ Vergaberecht](https://www.smart-city-dialog.de/faq-zum-thema-recht) - Smart City Dialog, BMWSB
 
 ## Globally
 
@@ -43,7 +52,6 @@ The `proxeus` folder contains exports for a demo [Proxeus workflow](https://prox
 
 ## Licenses & Tools
 
-- [OSBA Standard-Vertragsbedingungen für SaaS- und Cloudsoftware](https://osb-alliance.de/publikationen/veroeffentlichungen/standard-vertragsbedingungen) ([PDF](https://osb-alliance.de/wp-content/uploads/2020/04/OSBA_Standard-Vertragsbedingungen_SaaS-_und_Cloudsoftware.pdf))
 - Creative Commons: [Chooser](https://chooser-beta.creativecommons.org/) (Beta), [Legal database](https://legaldb.creativecommons.org/en/scholarship/)
 - [Accord Project](https://accordproject.org/) (via [opensource.legal](https://opensource.legal/projects/AccordProject))
 - [GitHub tag legal-documents](https://github.com/topics/legal-documents)
@@ -58,6 +66,7 @@ The `proxeus` folder contains exports for a demo [Proxeus workflow](https://prox
 - [Openterms: Generate legal texts in markdown format](https://github.com/entva/openterms)
 - [Automated visual contracting](https://users.cecs.anu.edu.au/~Michael.Curtotti/visualcontracting/) (via [Cornell blog](https://blog.law.cornell.edu/voxpop/category/crowdsourcing-and-free-access-to-law/))
 - [Useful Legal Documents For Designers](https://www.smashingmagazine.com/2012/08/free-download-useful-legal-documents-for-designers-pdf/) (Smashing Magazine)
+- [Softwareentwicklungsverträge](https://www.liesegang-partner.de/mustervertraege/software-vertraege) (Liesegang & Partner)
 
 ## Technical Projects
 
@@ -65,6 +74,7 @@ The `proxeus` folder contains exports for a demo [Proxeus workflow](https://prox
 - [Catala](https://challenges.openlegallab.ch/project/90) is a programming language for translation of statutory law into an executable implementation
 - [OpenContracts](https://github.com/JSv4/OpenContracts?tab=readme-ov-file#core-data-standard) via [opensource.legal](https://opensource.legal/projects/OpenContracts)
 - [Proxeus Handbook](https://doc.proxeus.org/#/handbook) for [Smart Templates](https://medium.com/proxeus/using-proxeus-smart-templates-957eefb75315)
+- [Enhancing Contract Negotiations with LLM-Based Legal Document Comparison](https://aclanthology.org/2024.nllp-1.11/). Narendra et al 2024
 
 ## Public Sector
 
